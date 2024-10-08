@@ -64,10 +64,12 @@ h2 {
 
 .btn-primary {
     background-color: #1f7798;
+    border:#1f7798 ;
 }
 
 .btn-primary:hover {
     background-color: #1d6d8a;
+    border: border: #1d6d8a;
 }
 
 
