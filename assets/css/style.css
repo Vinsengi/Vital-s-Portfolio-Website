@@ -58,6 +58,18 @@ h2 {
     background-color: white;
 }
 
+#contact .form-label {
+    color: #1f7798;
+}
+
+.btn-primary {
+    background-color: #1f7798;
+}
+
+.btn-primary:hover {
+    background-color: #1d6d8a;
+}
+
 
 /* Header */
 
